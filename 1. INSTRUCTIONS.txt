@@ -1,0 +1,23 @@
+Start phpmyadmin start : localhost/phpmyadmin
+
+Create a database in Xampp : org
+
+table name : connect_sql
+
+field : 9
+
+
+import file : org [ SQL Source File ]    
+
+
+   [ Page ]			[ filename ]	
+	1.					con_sql.php
+	2.					form.php
+	3.					insert.php
+	4.					display.php
+	5.					edit.php
+	6.					delete.php
+	7.					login.php
+
+
+
